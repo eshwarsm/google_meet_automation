@@ -1,4 +1,4 @@
->> Install requirements.txt (pip install -r requirements.txt)
+## >> Install requirements.txt (pip install -r requirements.txt)
 >> Chrome Driver Link : "https://chromedriver.chromium.org/"
 >> Mention your Chrome Driver path
 >> Chrome Driver Path format : '/your/path/./chromedriver'
